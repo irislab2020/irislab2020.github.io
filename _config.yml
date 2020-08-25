@@ -3,10 +3,9 @@
 # # # # # # # #
 
 # Basic
-name:               "IRIS lab"
+name:               "아이리스 (IRIS)"
 title:              "청소년 성소수자 연구모임"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
-
+description:       
 
 # URL
 url:                http://irislab2020.github.io
@@ -24,15 +23,15 @@ highlighter:        rouge
 nav:
   - name:           "home"
     href:           "/"
-  - name:           "about"
+  - name:           "소개"
     href:           "/about"
-  - name:           "publications"
-    href:           "/publication"
-  - name:           "people"
+  - name:           "연구진"
     href:           "/people"
-  - name:           "blog"
+  - name:           "자료실"
+    href:           "/publication"
+  - name:           "사진"
     href:           "/blog"
-  - name:           "resources"
+  - name:           "English"
     href:           "/resources"
 
 # Sass
