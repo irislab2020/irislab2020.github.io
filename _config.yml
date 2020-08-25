@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
+name:               "IRIS lab"
+title:              "청소년 성소수자 연구모임"
 description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
 
 
 # URL
-url:                http://kordinglab.com
+url:                http://irislab2020.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
