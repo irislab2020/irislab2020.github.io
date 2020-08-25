@@ -1,10 +1,14 @@
 ---
-title: About
+title: 소개
 permalink: /about/
 ---
 
-### About us
-We are a group of data scientists with interest in brains and, more general, biomedical research. Our research is more diverse than most labs, and also changes much more quickly! Right at the moment, much of the research in the lab is about deep learning and its applications. We also do a good bit of neural data analysis. Right now we are also very much interested in causality and its links with machine learning.
+### 소개
+안녕하세요! 청소년 성소수자 연구모임 **아이리스(iris)** 입니다. 
+아이리스는 그리스어로 ‘무지개빛’이라는 뜻을 담고 있습니다. 고대 그리스 신화에 등장하는  아이리스 여신은 무지개를 타고 지상으로 내려와 하늘의 뜻을 전해주었다고 합니다.
+청소년 성소수자는 ‘청소년’이라는 이유로, ‘성소수자’라는 이유로 사회에서 오랜 시간 침묵해야만 했던 존재입니다. 
+이들의 삶과 고민, 그리고 꿈을 세상에 전하고자 다양한 연구자들이 모였습니다. 아이리스는 청소년 성소수자들이 안고 살아가는 다양한 문제들-아웃팅과 학교폭력, 학업중단, 진로고민 등- 을 주제로 연구 프로젝트를 진행하고자 합니다. 
+무지개를 타고 사랑의 메시지를 전했던 아이리스 여신처럼, 청소년 성소수자들이 세상에 전하고자 하는 다양한 메세지를 여러분께 전해드리고 싶습니다.
 
 ### Research
 Making sense of data is possibly the biggest problem in Neuroscience and beyond. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
