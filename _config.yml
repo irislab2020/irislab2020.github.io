@@ -29,7 +29,7 @@ nav:
     href:           "/people"
   - name:           "자료실"
     href:           "/publication"
-  - name:           "사진"
+  - name:           "후원"
     href:           "/blog"
   - name:           "English"
     href:           "/resources"
