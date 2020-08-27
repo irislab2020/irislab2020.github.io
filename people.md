@@ -17,7 +17,7 @@ permalink: /people/
 
 <div class="pos_header">
 {% if role == 'grad' %}
-<h3>석·박사 연구원</h3>
+<h3>what the fuck</h3>
  {% elsif role == 'pi' %}
 <h3>교수</h3>
  {% elsif role == 'undergrad' %}
