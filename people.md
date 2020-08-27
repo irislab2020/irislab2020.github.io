@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others" | split: "|" %}
+{% assign role_array = "pi|gradstudents|undergradstudents" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -16,18 +16,12 @@ permalink: /people/
 {% endif %}
 
 <div class="pos_header">
-{% if role == 'postdoc' %}
-<h3>ㅁㄴㅁㄴㅁㄴ</h3>
+{% if role == 'gradstudents' %}
+<h3>석·박사 연구원</h3>
  {% elsif role == 'pi' %}
-<h3>ㅐㅏㅐㅏㅐㅏ</h3>
- {% elsif role == 'gradstudent' %}
-<h3>Graduas</h3>
- {% elsif role == 'researchstaff' %}
-<h3>Research Staff</h3>
- {% elsif role == 'visiting' %}
-<h3>kmkmkng Scholars</h3>
- {% elsif role == 'others' %}
-<h3>Honorary Members</h3>
+<h3>교수</h3>
+ {% elsif role == 'undergradstudents' %}
+<h3>학부 연구원</h3>
 {% endif %}
 </div>
 
