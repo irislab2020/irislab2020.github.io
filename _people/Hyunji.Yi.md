@@ -4,10 +4,11 @@ position: undergrad researchers
 avatar: 이현지 profile.jpg
 twitter:
 ---
-- _서울대학교 윤리교육과(주전공)/심리학과(부전공) 학부과정 재학중_<br>
-- _튤립연대(청소년 트랜스젠더 인권모임) 정회원_
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+- _서울대학교 윤리교육과(주전공)·심리학과(부전공) 학부과정 재학중_<br>
+- _튤립연대(청소년 트랜스젠더 인권모임) 정회원_
 
 #### Contact
 
