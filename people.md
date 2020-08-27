@@ -22,6 +22,7 @@ permalink: /people/
 <h3>교수</h3>
  {% elsif role == 'undergradstudents' %}
 <h3>학부 연구원</h3>
+  
 {% endif %}
 </div>
 
