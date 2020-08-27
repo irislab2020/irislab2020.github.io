@@ -17,11 +17,11 @@ permalink: /people/
 
 <div class="pos_header">
 {% if role == 'grad' %}
-<h3>what the fuck</h3>
+<h3>what_the_fuck</h3>
  {% elsif role == 'pi' %}
 <h3>교수</h3>
  {% elsif role == 'undergrad' %}
-<h3>학부 연구원</h3>
+<h3>학부_연구원</h3>
 {% endif %}
 {% endfor %}
 </div>
