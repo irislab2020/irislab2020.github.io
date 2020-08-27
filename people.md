@@ -25,6 +25,3 @@ permalink: /people/
 {% endif %}
 </div>
 
-
-{% endif %}
-{% endfor %}
