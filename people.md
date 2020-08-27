@@ -18,11 +18,10 @@ permalink: /people/
 <div class="pos_header">
  {% elsif role == 'pi' %}
 <h3>교수</h3>
- {% elsif role == 'pi' %}
-<h3>석·박사 연구원</h3>
  {% elsif role == 'gradstudents' %}
+<h3>석·박사 연구원</h3>
+ {% elsif role == 'undergrad researchers %}
 <h3>학부 연구원</h3>
- {% elsif role == 'undergrad researchers' %}
 {% endif %}
 </div>
 
