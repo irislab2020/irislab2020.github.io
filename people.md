@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
-{% assign role_array = "pi|postdoc|gradstudent" | split: "|" %}
+{% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
 
 {% for role in role_array %}
 
@@ -24,4 +24,5 @@ permalink: /people/
 <h3>학부 연구원</h3>
 {% endif %}
 </div>
+
 {% endfor %}
