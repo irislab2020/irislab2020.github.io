@@ -1,6 +1,6 @@
 ---
 name: 이현지 (Hyunji Yi)
-position: graduatestudent
+position: gradstudent
 avatar: 이현지 profile.jpg
 twitter:
 ---
