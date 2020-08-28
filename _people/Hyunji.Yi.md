@@ -1,6 +1,6 @@
 ---
 name: 이현지 (Hyunji Yi)
-position: undergrad researchers
+position: postdoc
 avatar: 이현지 profile.jpg
 twitter:
 ---
